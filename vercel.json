@@ -1,0 +1,8 @@
+{
+    "name": "my-project",
+    "description": "My awesome project hosted on Vercel",
+    "builds": [
+      { "src": "./merge.js", "use": "@vercel/static-build" }
+    ]
+}
+   
